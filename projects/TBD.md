@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/under_construction.jpg
 title: "Project Coming Soon"
 date: 2026
 published: true
