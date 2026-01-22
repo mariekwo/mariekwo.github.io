@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/under_construction.jpg
+image: img/under-construction.jpg
 title: "Project Coming Soon"
 date: 2026
 published: true
