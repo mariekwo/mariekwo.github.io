@@ -9,12 +9,14 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+##The Past
 
 Many years ago I wanted to learn how to make a website. I didn't want to "cheat" and use another website to generate mine, I wanted to make everything myself. After a search on Google I decided on using JavaScript. This was before the plethora of online guides that we have today so I went to the library to check out a few books. And yes, one of them was "for Dummies"! I pored over the books and was fascinated with the way altering bits of the code could effect a quite different product than you started with. I even took them with me on an interisland trip. Unfortunately, I never did make that website.
 
-Cut to my first year in college. I remembered how I didn't make the leap previously and thought to myself that this would be a perfect push, so I enrolled in a programming class. On reading the syllabus I was excited to see that the language we would be using was Java! Perfect, I thought, this will be easier for me since I had already read those books. Turns out it was not the case since Java is a different language altogether. Th logic, though, remained the same.
+Cut to my first year in college. I remembered how I didn't make the leap previously and thought to myself that this would be a perfect push, so I enrolled in a programming class. On reading the syllabus I was excited to see that the language we would be using was Java! Perfect, I thought, this will be easier for me since I had already read those books. Turns out it was not the case since Java is a different language altogether. The logic, though, remained the same.
 
-I'm currently taking a class that deals with TypeScript, yet another new
+##The Present
+
+I'm currently taking a class that deals with TypeScript, a callback to my fuzzy memories of JavaScript with a new exciting layer of data types. This time around I'm under no illusions that having paged through some books ages ago will give me a leg up in learning TypeScript, but the similarities between other languages I've learned more recently certainly have. It's a comfort that there is some carryover and the format of the class is also helpful.
+
+In this class we practice "athletic" programming. We have frequent drills in which we are given prompts and try to finish coding as quickly as we can. 
