@@ -17,6 +17,12 @@ Cut to my first year in college. I remembered how I didn't make the leap previou
 
 ##The Present
 
-I'm currently taking a class that deals with TypeScript, a callback to my fuzzy memories of JavaScript with a new exciting layer of data types. This time around I'm under no illusions that having paged through some books ages ago will give me a leg up in learning TypeScript, but the similarities between other languages I've learned more recently certainly have. It's a comfort that there is some carryover and the format of the class is also helpful.
+I'm currently taking a class that deals with TypeScript, a callback to my fuzzy memories of JavaScript with a new exciting layer of data types. This time around I'm under no illusions that having paged through some books ages ago will give me a leg up in learning TypeScript, but the similarities between other languages I've learned more recently certainly have.The addition of types makes it easier to write good code. It's a comfort that there is some carryover and the format of the class is also helpful.
 
-In this class we practice "athletic" programming. We have frequent drills in which we are given prompts and try to finish coding as quickly as we can. 
+In this class we practice "athletic" programming. We have frequent drills in which we are given prompts and try to finish coding as quickly as we can. It's good fun. I definitely need to brush off the cobwebs. I've been noticing that my greatest time sink is syntax errors and not knowing what Typescript wants for me to get it to work. AI, I recently discovered, is a great help with that.
+
+Prior to this class I had never used AI for anything, having mostly been in college prior to the AI boom and reluctant to use it for fear of the AI singularity. That changed when one of my TAs made a case for AI that changed my mind and relayed how they knew someone who was asked if they could use ChatGPT in an interview. One of my professors also gave the class access to an AI tool specific to the course. A survey of my classmates revealed that basically everyone had used AI. Fearing I would be left behind I took the plunge and so far it's been great.
+
+Of course there is using AI as an assistant and there is using AI for your degree. Personally, I use it to double check my written code or ask for the command I need to accomplish what I want. After being corrected I make sure to go over the code so I understand why it was wrong. I may in the future also use it to scrape needed information for the prompts like getting text from an image or generating test cases.
+
+In conclusion, I'll certainly be learning a lot and keep learning a lot! Learning a progamming mindset is always applicable no matter the language.
