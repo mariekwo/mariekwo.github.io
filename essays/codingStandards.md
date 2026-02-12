@@ -16,7 +16,11 @@ Working in a team can be extremely frustrating. Haven't we all been there? You e
 
 A big issue when working with other people is differing standards. Not only in quality but in the way things are done. When different people write different parts of a report it can be jarring to transition between them. In coding, this transition is even more jarring.
 
+##Good Code
+
 Coding standards are not only important when combining the work of multiple coders, they're also important for improving readability. This is critical when other people read your code or when future you is reviewing your code. In my aforementioned experience it took longer to untangle the code contribution than it would've taken to just write it myself. I had provided a function prototype of what my code needed but the function I got back had completely different parameters. When I tried to troubleshoot the code the formatting was all over the place. It was a struggle and a lesson on the importance of code readability.
+
+##Forced Good Code
 
 Nowadays there are formatters like Prettier that will automatically format your code. There are also linters such as ESlint that will enforce code-quality rules meant to help with bugs. Personally I've found these tools to be very helpful and, though I haven't used them this way yet, are sure to be a great tool when working in teams.
 
