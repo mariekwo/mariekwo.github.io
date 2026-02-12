@@ -11,7 +11,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/essay-img/square-peg.png">
 
-## In the context of programming
 
 Working in a team can be extremely frustrating. Haven't we all been there? You expect a teammate to one thing and then they do another. Or the worse case-nothing at all! Sometimes you'd rather they actually didn't do aything because what they submitted just made more work for you... am I relaying too much of my bitterness here?
 
