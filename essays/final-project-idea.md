@@ -12,7 +12,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/finalProject/studyCircle.png">
 
-### Project: Study Guide (WIP)
+## Project: Study Guide (WIP)
+
 ## Authors
 Michaela Gillan, Khloe Valera, Marie Wong
 ## Overview
