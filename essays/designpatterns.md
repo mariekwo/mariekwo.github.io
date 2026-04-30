@@ -4,7 +4,7 @@ type: essay
 title: "Lego-fication of Design"
 # All dates must be YYYY-MM-DD format!
 date: 2026-04-29
-published: false
+published: true
 labels:
   - Engineering
   - Design
