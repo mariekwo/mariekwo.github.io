@@ -10,7 +10,7 @@ labels:
   - Design
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0omAifR-lzAB-cZ0rKuVjw.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/essay-img/lego.jpg">
 
 ## Replicable Design
 
