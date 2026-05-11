@@ -4,7 +4,7 @@ type: project
 image: img/under-construction.png
 title: "Project Coming Soon"
 date: 2026
-published: true
+published: false
 labels:
   - Typescript
   - C++
